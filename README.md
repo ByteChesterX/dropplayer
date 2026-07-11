@@ -18,7 +18,10 @@ mp3, wav, ogg, flac, aac, m4a, opus, wma
 ## Derleme
 
 Bağımlılıklar:
-```bash`
+gtk3
+alsa-lib
+pulseaudio
+
 # Debian/Ubuntu
 sudo apt install gcc libgtk-3-dev libasound-dev libpulse-dev
 
